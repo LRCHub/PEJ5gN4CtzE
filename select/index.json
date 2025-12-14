@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HAPPY TO DO WA!",
+  "base_artist": "唐可可(CV.Liyuu)、平安名すみれ(CV.ペイトン尚未)、葉月恋(CV.青山なぎさ)",
+  "createdAt": "2025-12-14T06:51:50.113304Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HAPPY TO DO WA!",
+      "artist": "唐 可可 (CV.Liyuu), 平安名すみれ (CV.ペイトン尚未), 葉月 恋 (CV.青山なぎさ)",
+      "has_synced": false,
+      "path": "select/pl_01_HAPPY_TO_DO_WA!_唐_可可_(CV.Liyuu),_平安名すみれ_(CV.ペイトン尚未),_葉月_恋_(CV.青山なぎさ).txt"
+    }
+  ]
+}
